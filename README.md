@@ -54,3 +54,5 @@ Disponibles en la carpeta `/capturas`:
 - `captura320px.png`
 - `captura768px.png`
 - `captura1280px.png`
+## ✅ Verificación final
+Proyecto revisado: enlaces funcionando, imágenes cargando, responsive probado en 320px/768px/1280px, sin uso de `!important`.
