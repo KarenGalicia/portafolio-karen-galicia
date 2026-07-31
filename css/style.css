@@ -200,7 +200,7 @@ button:focus-visible,
   color: #fff;
   box-shadow: 0 20px 45px rgba(214, 35, 106, 0.35);
 }
-
+/* Anillo decorativo animado alrededor de la foto de perfil */
 .avatar-ring {
   position: absolute;
   inset: -14px;
